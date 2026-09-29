@@ -1,0 +1,11 @@
+.logo:hover{
+    color:#141414;
+    letter-spacing: 10px
+}
+
+@keyframes acender{
+    to{
+        color:#fff;
+        text-shadow: 0 0 10px #32f323, 0 0 20px #a8dfe1;
+    }
+}
